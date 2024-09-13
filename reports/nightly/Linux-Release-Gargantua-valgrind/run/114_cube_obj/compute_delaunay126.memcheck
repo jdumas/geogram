@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/compute_delaunay /home/runner/work/geogram/geogram/tests/data/Small/cube.obj algo:delaunay=BDEL</line>
 </preamble>
 
-<pid>12090</pid>
-<ppid>6379</ppid>
+<pid>12088</pid>
+<ppid>6363</ppid>
 <tool>memcheck</tool>
 
 <args>
