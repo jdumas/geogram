@@ -1,5 +1,5 @@
-[  1%] Building C object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/libMeshb/sources/libmeshb7.c.o
 [  1%] Building C object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/rply/rply.c.o
+[  1%] Building C object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/libMeshb/sources/libmeshb7.c.o
 [  2%] Building C object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/zlib/adler32.c.o
 [  2%] Building C object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/zlib/compress.c.o
 [  3%] Building C object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/zlib/crc32.c.o
@@ -53,8 +53,8 @@
 [ 26%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/expansion_nt.cpp.o
 [ 27%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/lbfgs_optimizers.cpp.o
 [ 27%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/matrix_util.cpp.o
-[ 28%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/optimizer.cpp.o
 [ 28%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/multi_precision.cpp.o
+[ 28%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/optimizer.cpp.o
 [ 29%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/predicates.cpp.o
 [ 29%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh.cpp.o
 [ 30%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_AABB.cpp.o
