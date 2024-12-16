@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpalite remesh=false /home/runner/work/geogram/geogram/tests/data/Small/truncated.ply out.meshb</line>
 </preamble>
 
-<pid>17916</pid>
-<ppid>12442</ppid>
+<pid>17860</pid>
+<ppid>12388</ppid>
 <tool>memcheck</tool>
 
 <args>
