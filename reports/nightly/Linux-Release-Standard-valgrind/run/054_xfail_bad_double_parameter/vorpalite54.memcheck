@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpalite remesh:anisotropy=xxx /home/runner/work/geogram/geogram/tests/data/Small/icosa.obj out.meshb</line>
 </preamble>
 
-<pid>13326</pid>
-<ppid>13156</ppid>
+<pid>13155</pid>
+<ppid>12984</ppid>
 <tool>memcheck</tool>
 
 <args>
